@@ -1,0 +1,10 @@
+.list{
+    list-style: none;
+}
+.item{
+background-color: rgb(185, 200, 231);
+}
+.item:nth-child(2n){
+    background-color: #fff;
+}
+.content{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}

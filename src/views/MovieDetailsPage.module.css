@@ -1,0 +1,44 @@
+.movieCard{
+    display: flex;
+    align-items: center;
+}
+.reliese{
+margin-bottom: 30px;
+font-size: large;
+font-weight: bold;}
+
+.poster{
+    margin-right: 50px;
+}
+.descr{
+    display: flex;
+    flex-direction: column;
+}
+.descr .text{
+    color: brown;
+    font-size: 24px;
+    font-style: italic;
+}
+.image{
+    width: 300px;
+}
+.Cast{
+    display: block;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+.Reviews {
+    display: block;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.buttonsArea{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}

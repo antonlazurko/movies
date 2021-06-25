@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/NotFoundView.tsx"],"names":["NotFoundView","error"],"mappings":"oMAGe,SAASA,EAAT,GAAyC,EAAjBC,MACrC,OAAO","file":"static/js/NotFoundView.bb5abde7.chunk.js","sourcesContent":["type TProps = {\r\n  error: string;\r\n};\r\nexport default function NotFoundView({ error }: TProps) {\r\n  return <h1>Page not found</h1>;\r\n}\r\n"],"sourceRoot":""}

@@ -1,0 +1,19 @@
+.list{
+    list-style-type: decimal;
+}
+.item{
+    margin-bottom: 10px;
+}
+.title{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.title:hover, .title:focus{
+    color: black;
+}
+.listNotification{
+    margin-top: 15px;
+    text-align: center;
+}
